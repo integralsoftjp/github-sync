@@ -1,0 +1,19 @@
+### example ###
+# service:
+#   -
+#     remoteurl: https://github.com/username/testservice1.git
+#     dir: testservicedir1
+#   -
+#     remoteurl: https://github.com/username/testservice2.git
+#     dir: testservicedir2
+
+service:
+  -
+    remoteurl: https://github.com/matzoka/radio365fan-streamlit.git
+    dir: radio365fan-streamlit
+  -
+    remoteurl: https://github.com/matzoka/yamato-tracker-withmap.git
+    dir: yamato-tracker-withmap
+  -
+    remoteurl: https://github.com/matzoka/limit_connect_check.git
+    dir: limit_connect_check
